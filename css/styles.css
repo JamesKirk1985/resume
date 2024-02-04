@@ -79,6 +79,14 @@ body {
   color: #161d2a;
 }
 
+.address {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+
 .Contacts-link {
   font-style: normal;
   font-weight: 400;
@@ -86,6 +94,9 @@ body {
   line-height: 24px;
   text-decoration-line: underline;
   color: #2979ff;
+}
+.tell-email {
+  text-decoration: none;
 }
 
 .Skills-box {
@@ -114,6 +125,7 @@ body {
 }
 
 .Soft-Skills-box-item {
+  width: 200px;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -142,7 +154,7 @@ body {
 }
 
 .Projects-box {
-  margin-bottom: 44px;
+  margin-bottom: 12px;
 }
 
 .Projects-item {
@@ -173,6 +185,9 @@ body {
 
 .Projects-list {
   padding-left: 16px;
+}
+.work-experience {
+  margin-top: 40px;
 }
 
 .Company-position {
@@ -211,6 +226,7 @@ body {
 }
 
 .Company-box {
+  /* margin-top: 40px; */
   margin-bottom: 8px;
 }
 
